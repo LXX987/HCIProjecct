@@ -10,6 +10,7 @@
     "axios": "^0.21.1",
     "core-js": "^2.6.5",
     "element-ui": "^2.15.0",
+    "photo-sphere-viewer": "^3.5.1",
     "three": "^0.125.2",
     "three-obj-mtl-loader": "^1.0.3",
     "three-orbit-controls": "^82.1.0",

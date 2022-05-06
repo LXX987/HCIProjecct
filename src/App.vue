@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import Main from './view/test.vue'
+import Main from './view/Home.vue'
 
 export default {
   name: 'app',
